@@ -3,18 +3,18 @@
 
 ## 🌟 About Me
 
-🎓 I'm **Sanjay**, a **3rd year Computer Science student** passionate about  
-**Data Structures, Algorithms, and Java Development!**  
-Currently preparing for **placements** and sharpening my coding skills daily 🚀
+🎓 I'm **Sanjay**, a **3rd year Computer Science student**  
+🔧 I build things using **Java + DSA** and design them using **Figma + No-Code tools**  
+📈 Currently preparing for **placements** and building a diverse skillset in tech
 
-- 🧠 Focused on mastering **DSA** (Sliding Window, Greedy, Trees, Graphs, etc.)
-- 💻 Practicing regularly on **LeetCode**, **GFG**, and other CP platforms
-- 💼 Aiming for **top product-based companies**
-- 🌱 Exploring **projects**, **open source**, and **system design basics**
+- 🧠 Mastering **DSA**: Sliding Window, Trees, DP, Graphs...
+- 🎨 Designing intuitive UIs using **Figma**
+- ⚒️ Building web & mobile apps with **No-Code tools**
+- 💼 Aiming to join top tech companies as a software developer
 
 ---
 
-## 💼 Tech Stack
+## 🧰 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -25,28 +25,40 @@ Currently preparing for **placements** and sharpening my coding skills daily �
 
 ---
 
-## 🚀 My GitHub Stats
+## 🎨 Design + No-Code / Low-Code
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![PowerApps](https://img.shields.io/badge/Microsoft%20PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Bubble](https://img.shields.io/badge/Bubble-2D2D2D?style=for-the-badge&logo=bubble&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+---
+
+## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Sanjay's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanju-exe&show_icons=true&theme=radical" alt="Sanjay's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanju-exe&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-- 🔁 Sliding Window, Two Pointers, Graphs, DP
-- ☕ Java OOPs + Project Building
-- ✍️ Competitive Coding Techniques
+- 🔁 Sliding Window, DP, Graphs
+- ☕ Java OOPs + Mini Projects
+- 🧩 Smart app building with No-Code tools
+- 🎨 UI/UX design using Figma
 - 📘 Basic System Design
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjayspidy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sanjayd2147.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
