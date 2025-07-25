@@ -14,6 +14,17 @@
 
 ---
 
+## 💻 My Laptop Setup
+
+✨ **Acer Nitro V** | 🧠 **16GB RAM** | 🎮 **RTX 3050** | 🚀 **Ryzen 5 6600H**
+
+![Laptop](https://img.shields.io/badge/Acer_Nitro_V-Black?style=for-the-badge&logo=nvidia&logoColor=white)
+![RAM](https://img.shields.io/badge/16GB%20DDR5%20RAM-Blue?style=for-the-badge)
+![GPU](https://img.shields.io/badge/RTX_3050-Green?style=for-the-badge&logo=nvidia&logoColor=white)
+![CPU](https://img.shields.io/badge/Ryzen_5_6600H-FF6C37?style=for-the-badge&logo=amd&logoColor=white)
+
+---
+
 ## 🧰 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -33,6 +44,12 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+---
+
+## 🔗 LeetCode Stats
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Sanjay_2147/)
 
 ---
 
