@@ -14,7 +14,7 @@
 
 ---
 
-## 💻 My Laptop Setup
+## 💻 Setup
 
 ✨ **Acer Nitro V** | 🧠 **16GB RAM** | 🎮 **RTX 3050** | 🚀 **Ryzen 5 6600H**
 
