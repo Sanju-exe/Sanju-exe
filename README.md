@@ -49,7 +49,7 @@
 
 ## 🔗 LeetCode Stats
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Sanjay_2147/)
+[![LeetCode]([https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Sanjay_2147/](https://leetcode.com/u/SanjuSpidy/))
 
 ---
 
